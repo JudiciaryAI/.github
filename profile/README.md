@@ -230,3 +230,173 @@ Led by President **H.E. Dr. Saud bin Abdullah Al-Qasabi**, the centre handles co
 - [Australian Centre for International Commercial Arbitration](https://www.acica.org.au/)
 - [Astana International Financial Centre Court](https://aifc-court.kz/)
 - [Riyadh International Disputes Resolution Centre](https://ridrc.org.sa/)
+
+## United States Of America Judiciary System Overview
+
+### Key Points
+- Research suggests that the U.S. judiciary includes both state and federal courts, with each state having its own court system.
+- It seems likely that state courts handle most legal matters, while federal courts focus on cases involving federal laws or constitutional issues.
+- The evidence leans toward New York City and San Francisco having specialized local courts within their state systems, while states like Nevada and Texas have complex, multi-level court structures.
+
+---
+
+### U.S. Judiciary Overview
+The U.S. judiciary is divided into state and federal systems, each with its own courts. For the locations you mentioned—New York City (NYC), San Francisco, Nevada, Texas, Wyoming, Delaware, Washington State, and Alaska—here’s a breakdown of their court systems, focusing on ease of understanding for general readers.
+
+#### Court Systems by Location
+- **New York City (NYC)**: Part of New York’s Unified Court System, with key courts like the NYC Civil Court (civil cases up to $50,000), NYC Criminal Court (misdemeanors), and the Supreme Court (felonies and high-value civil cases). Appeals go to the Appellate Division.
+- **San Francisco**: Covered by the San Francisco Superior Court, handling civil, criminal, family, and probate cases, with appeals to California’s Courts of Appeal.
+- **Nevada**: Includes the Supreme Court (highest), Court of Appeals (intermediate), District Courts (general trials), Justice Courts (minor cases), and Municipal Courts (city offenses).
+- **Texas**: Has a unique system with the Supreme Court (civil), Court of Criminal Appeals (criminal), Courts of Appeals (14 districts), and trial courts like District, County, Justice, and Municipal Courts.
+- **Wyoming**: Simple structure with the Supreme Court, District Courts (9 districts), Circuit Courts (specific cases), and Municipal Courts (minor offenses).
+- **Delaware**: Known for the Court of Chancery (corporate law), plus the Supreme Court, Superior Court (general trials), Family Court, Court of Common Pleas, and Justice of the Peace Courts.
+- **Washington State**: Features the Supreme Court, Court of Appeals (3 divisions), Superior Courts (general trials), District Courts (limited cases), and Municipal Courts (city offenses).
+- **Alaska**: Includes the Supreme Court, Court of Appeals, Superior Courts (general trials), and District Courts (limited jurisdiction).
+
+#### Unexpected Detail
+Delaware’s Court of Chancery is unexpectedly specialized in corporate law, attracting many business-related cases due to its expertise, which is not as common in other states.
+
+For more details, visit [NY Courts](https://www.nycourts.gov), [California Courts](https://www.courts.ca.gov), or [Delaware Courts](https://courts.delaware.gov).
+
+---
+
+### Comprehensive Analysis of U.S. Judiciary Courts
+
+This analysis provides an in-depth examination of the judiciary court systems in the United States, focusing on New York City (NYC), San Francisco, Nevada, Texas, Wyoming, Delaware, Washington State, and Alaska. It includes detailed structures, key courts, and notable features, ensuring a professional perspective suitable for legal researchers and business professionals. The current date, March 22, 2025, ensures all information is relevant, with no contradictory updates noted.
+
+#### Background and Methodology
+The U.S. judiciary comprises federal and state court systems, with each state having its own court structure. The analysis begins with the specified locations, covering both state and local courts where applicable. Key factors include court levels, jurisdiction, and unique features, with information gathered from official court websites and legal resources.
+
+#### Detailed Analysis by Location
+
+##### **1. New York City (NYC)**
+- **Part of**: New York State Unified Court System, administered by the Chief Judge and Office of Court Administration.
+- **Court Structure**:
+  - **Trial Courts**:
+    - **New York City Civil Court**: Handles civil cases with claims up to $50,000, including landlord-tenant disputes, small claims, and other civil matters. Jurisdiction is limited to NYC.
+    - **New York City Criminal Court**: Handles misdemeanor criminal cases and initial arraignments for felony cases. It is part of the state system but specific to NYC.
+    - **Supreme Court of the State of New York (in NYC)**: A trial court of general jurisdiction, handling civil cases over $50,000, felony criminal cases, and other complex matters. Unlike most states, New York’s Supreme Court is a trial court, not the highest court.
+  - **Appellate Courts**:
+    - Appeals from NYC courts typically go to the Appellate Division of the Supreme Court, divided into four departments. NYC falls under the First (Bronx, NY County) and Second (Kings, Queens, Richmond) Departments.
+    - The Court of Appeals is the highest court, hearing appeals from the Appellate Divisions, with seven judges appointed by the governor.
+- **Notable Features**:
+  - NYC’s court system is highly active, handling over three million cases annually, with debt collection actions estimated at 25% of all lawsuits.
+  - The system uses the New York State Courts Electronic Filing System (NYSCEF) for e-filing, enhancing accessibility.
+  - The complexity of the system, with eleven trial courts, has been criticized for being confusing and costly, with proposals for consolidation into a two-tiered structure.
+
+##### **2. San Francisco**
+- **Part of**: California Superior Court System, governed by the Judicial Council, chaired by the California Supreme Court Chief Justice.
+- **Court Structure**:
+  - **Trial Court**:
+    - **San Francisco Superior Court**: Handles civil, criminal, family, probate, and other matters. It is a trial court of general jurisdiction, with divisions for traffic, civil, criminal, unified family court, and probate.
+    - Jurisdiction includes non-criminal lawsuits among individuals and corporations, felony cases, and family-related issues.
+  - **Appellate Courts**:
+    - Appeals go to the California Courts of Appeal, First Appellate District, based in San Francisco.
+    - Further appeals can go to the California Supreme Court, the state’s highest court, seated in San Francisco with sessions in Los Angeles and Sacramento.
+- **Notable Features**:
+  - The Superior Court offers online access to case filings, tentative rulings, and traffic citation payments, enhancing efficiency.
+  - California’s court system is the largest in the country, with 58 superior courts, one for each county, including San Francisco.
+  - The court system is known for its diversity in judicial appointments, with efforts to ensure representation across experience, gender, and ethnicity.
+
+##### **3. Nevada**
+- **State Court System Structure**:
+  - **Supreme Court of Nevada**: The highest court, consisting of seven justices, with the longest-serving member as Chief Justice. Elected statewide for six-year terms, it hears appeals and has original jurisdiction over certain matters.
+  - **Court of Appeals**: An intermediate appellate court with a Chief Judge and two associate judges, elected statewide for six-year terms. It follows a “push-down” model, with cases assigned by the Supreme Court.
+  - **District Courts**: Trial courts of general jurisdiction, with one in each county. They handle civil and criminal cases, including felonies and high-value civil disputes.
+  - **Justice Courts**: Handle misdemeanor crimes, traffic matters, small claims disputes, evictions, and other civil matters less than $15,000. Justices of the Peace also conduct preliminary hearings for felonies.
+  - **Municipal Courts**: Manage cases involving violations of traffic and misdemeanor ordinances within city limits, funded by the city, with funds going to the municipality’s general fund.
+- **Notable Features**:
+  - Nevada has 17 municipal courts, presided over by 30 municipal judges, with some also serving as justices of the peace.
+  - The Supreme Court has rulemaking authority, establishing rules for court administration, civil procedure, and conduct for judges and attorneys, supported by the Judicial Council.
+
+##### **4. Texas**
+- **State Court System Structure**:
+  - **Supreme Court of Texas**: The highest court for civil cases, with nine justices, including a Chief Justice. It has discretionary jurisdiction over appeals from the Courts of Appeals.
+  - **Texas Court of Criminal Appeals**: The highest court for criminal cases, with nine judges, handling appeals in criminal matters, including death penalty cases.
+  - **Courts of Appeals**: Intermediate appellate courts, with 14 districts covering different regions. They review decisions from trial courts, with jurisdiction over both civil and criminal appeals.
+  - **District Courts**: Trial courts of general jurisdiction, over 450 in total, handling felony criminal cases, civil cases over $500, and family law matters. Rural courts are all-purpose, while urban courts specialize.
+  - **County Courts**: Over 500, handle misdemeanor criminal cases, probate, and civil cases up to $200,000, with variations by county.
+  - **Justice Courts**: Over 800, handle minor civil and criminal cases, including small claims and evictions, with jurisdiction up to $20,000.
+  - **Municipal Courts**: Over 900, handle minor offenses within city limits, such as traffic violations and city ordinances.
+- **Notable Features**:
+  - Texas has a bifurcated appellate system, unique among states, with separate supreme courts for civil and criminal matters, shared only with Oklahoma.
+  - The system is complex, with overlapping jurisdictions and ad hoc expansions since the late 1800s, leading to inefficiencies and calls for reform.
+
+##### **5. Wyoming**
+- **State Court System Structure**:
+  - **Supreme Court of Wyoming**: The highest court, with five justices, elected through a merit selection process, serving eight-year terms after initial appointment.
+  - **District Courts**: Trial courts of general jurisdiction, divided into nine districts, handling civil and criminal cases, including felonies and high-value disputes.
+  - **Circuit Courts**: Handle specific cases, such as misdemeanors, traffic violations, small claims, and evictions, with 24 judges selected similarly to district judges.
+  - **Municipal Courts**: Handle minor offenses within city limits, funded by municipalities, with jurisdiction over local ordinances.
+- **Notable Features**:
+  - Wyoming’s court system is simple and efficient, reflecting its small population and rural nature.
+  - The state uses a merit selection process for judges, with retention elections after initial terms, ensuring judicial independence.
+
+##### **6. Delaware**
+- **State Court System Structure**:
+  - **Supreme Court of Delaware**: The highest court, with five justices, serving 12-year terms, selected through a variation of the Missouri Plan (assisted appointment).
+  - **Court of Chancery**: A specialized court handling equity cases, particularly corporate law, with jurisdiction over trusts, estates, and contractual disputes. It is world-renowned for corporate litigation.
+  - **Superior Court**: Trial court of general jurisdiction, with three courts (one per county), handling civil cases at common law and adult felonies.
+  - **Family Court**: Handles family law matters, including divorce, child custody, and juvenile cases, with statewide jurisdiction.
+  - **Court of Common Pleas**: Handles civil cases up to $75,000 and certain misdemeanors, with jurisdiction statewide.
+  - **Justice of the Peace Court**: Handles minor civil and criminal cases, including traffic violations, with jurisdiction up to $25,000 in civil cases.
+  - **Alderman’s Courts**: Local courts in some towns, handling minor offenses, with varying terms for judges.
+- **Notable Features**:
+  - Delaware’s Court of Chancery is a key feature, attracting business litigation due to its expertise, with over 50% of Fortune 500 companies incorporated in the state.
+  - The court system is pyramid-shaped, with the Justice of the Peace Court at the base and the Supreme Court at the apex, reflecting increasing complexity and cost as cases ascend.
+
+##### **7. Washington State**
+- **State Court System Structure**:
+  - **Supreme Court of Washington**: The highest court, with nine justices, elected in nonpartisan elections for six-year terms, based in Olympia.
+  - **Court of Appeals**: Intermediate appellate court, divided into three divisions, handling appeals from superior courts, with discretionary jurisdiction.
+  - **Superior Courts**: Trial courts of general jurisdiction, one in each county, handling civil and criminal cases, including felonies and family law.
+  - **District Courts**: Handle limited civil and criminal cases, including misdemeanors and small claims, with jurisdiction up to $100,000 in civil cases.
+  - **Municipal Courts**: Handle minor offenses within city limits, such as traffic violations and local ordinances, funded and administered locally.
+- **Notable Features**:
+  - Washington’s court system is not unified, with trial courts funded and administered locally by counties or cities, except for a few exceptions.
+  - The Court of Appeals helps manage the appellate caseload, ensuring efficiency, with divisions covering different regions.
+
+##### **8. Alaska**
+- **State Court System Structure**:
+  - **Supreme Court of Alaska**: The highest court, with five justices, appointed through an assisted appointment method, serving indefinite terms with retention elections.
+  - **Court of Appeals**: Intermediate appellate court, with four judges, created in 1980 to handle criminal appeals and certain civil matters.
+  - **Superior Courts**: Trial courts of general jurisdiction, one in each judicial district, handling civil and criminal cases, including felonies and family law.
+  - **District Courts**: Handle limited jurisdiction cases, including misdemeanors, small claims, and traffic violations, with concurrent jurisdiction with superior courts for some matters.
+- **Notable Features**:
+  - Alaska’s court system is adapted to its vast geography, with courts serving remote areas, facing logistical and cultural challenges.
+  - The Court of Appeals was established to manage the appellate caseload, with jurisdiction over criminal prosecutions, post-conviction relief, and juvenile delinquency.
+
+#### Comparative Insights and Unexpected Detail
+- **Common Themes**: Most states have a hierarchical court system with trial courts, intermediate appellate courts, and a supreme court. Specialized courts, like family or probate courts, are common in larger states.
+- **Unexpected Detail**: Delaware’s Court of Chancery, with its focus on corporate law, is unexpectedly specialized, attracting significant business litigation, which is not as prevalent in other states like Wyoming, which has a simpler, rural-focused system.
+- **Federal Courts**: Each state has at least one federal district court, handling cases involving federal laws or constitutional issues, with appeals going to circuit courts (e.g., Ninth Circuit for California, Washington, Alaska; Tenth Circuit for Wyoming; Third Circuit for Delaware).
+
+#### Table: Summary of Key Court Levels by State/City
+
+| **Location**       | **Highest Court**          | **Intermediate Appellate** | **Trial Courts (Key Examples)**         | **Lower Courts**                     |
+|---------------------|----------------------------|---------------------------|-----------------------------------------|--------------------------------------|
+| NYC                | New York Court of Appeals  | Appellate Division        | NYC Civil Court, NYC Criminal Court, Supreme Court | N/A (part of state system)           |
+| San Francisco      | California Supreme Court   | Courts of Appeal (1st Dist)| San Francisco Superior Court            | N/A (part of state system)           |
+| Nevada             | Supreme Court of Nevada    | Court of Appeals          | District Courts, Justice Courts         | Municipal Courts                     |
+| Texas              | Supreme Court, Court of Criminal Appeals | Courts of Appeals (14)  | District Courts, County Courts          | Justice Courts, Municipal Courts     |
+| Wyoming            | Supreme Court of Wyoming   | N/A                       | District Courts (9 districts)           | Circuit Courts, Municipal Courts     |
+| Delaware           | Supreme Court of Delaware  | N/A                       | Superior Court, Court of Chancery       | Family Court, Court of Common Pleas, Justice of the Peace, Alderman’s Courts |
+| Washington State   | Supreme Court of Washington| Court of Appeals (3 divs) | Superior Courts (1 per county)          | District Courts, Municipal Courts    |
+| Alaska             | Supreme Court of Alaska    | Court of Appeals          | Superior Courts (1 per district)        | District Courts                      |
+
+This table highlights the diversity in court structures, with Delaware’s Court of Chancery standing out for its corporate law focus.
+
+#### Conclusion
+The U.S. judiciary is a complex system with both federal and state components, tailored to each state’s needs. The locations highlighted showcase this diversity, from NYC’s specialized city courts to Alaska’s geographically adapted system. Understanding these systems is crucial for navigating legal matters effectively.
+
+---
+
+### Key Citations
+- [NY Courts official home page](https://www.nycourts.gov)
+- [California Courts home page](https://www.courts.ca.gov)
+- [Nevada Judiciary home page](https://nvcourts.gov)
+- [Texas Judicial Branch about Texas courts](https://www.txcourts.gov/about-texas-courts)
+- [Wyoming Judicial Branch about the courts](https://www.courts.state.wy.us/about-the-courts)
+- [Delaware Courts overview](https://courts.delaware.gov/overview.aspx)
+- [Washington State Courts resources](https://www.courts.wa.gov/newsinfo/resources/?fa=newsinfo_jury.display&altMenu=Citi&folderID=jury_guide&fileID=system)
+- [Alaska Court System court information](https://courts.alaska.gov/main/ctinfo.htm)
